@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📚 Full-Stack desde Cero · Práctica
+# 🚀 Fullstack Journey
 
 **Repositorio de práctica personal siguiendo el tutorial de [midudev](https://www.youtube.com/@midudev).**
 
